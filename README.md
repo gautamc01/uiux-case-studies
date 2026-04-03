@@ -1,4 +1,6 @@
 # 💧 Neer Prakalp – Water Tanker Delivery App
+## 📄 Full Case Study PDF
+[View Complete Case Study](./Water%20Tanker%20UIUX%20Case%20Study.pdf)
 
 ## 📌 Project Overview
 Neer Prakalp is a mobile application designed to simplify and streamline water tanker booking for residential, commercial, and industrial users. It connects users with local water suppliers, ensuring reliable, transparent, and efficient water delivery.
