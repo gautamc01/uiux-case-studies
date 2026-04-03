@@ -1,3 +1,5 @@
+> 🚀 Designed a seamless water tanker booking experience to solve real-world water accessibility issues.
+
 # 💧 Neer Prakalp – Water Tanker Delivery App
 ## 📄 Full Case Study PDF
 [View Complete Case Study](./Water%20Tanker%20UIUX%20Case%20Study.pdf)
@@ -67,17 +69,28 @@ Needs reliable water supply to run business without interruption.
 
 ## 🎨 Final UI Screens
 
-### 🏠 Home Screen
+### 🏠 Home Experience
 ![Home Screen](Home%20Screen%201.png)
 
-### 📦 Product Screen
+---
+
+### 📦 Browse & Select
 ![Product Screen](Product%20Screen%201.png)
 
-### 💳 Payment Screen
+---
+
+### 💳 Checkout Flow
 ![Payment Screen](Payment%20Screen%201.png)
 
-### ✅ Success Screen
+---
+
+### ✅ Order Confirmation
 ![Success Screen](Success%20screen%201.png)
+
+## 💡 Key UX Decisions
+- Simplified booking flow for faster ordering  
+- Clear pricing to build user trust  
+- Real-time updates to reduce uncertainty  
 ---
 
 ## 📈 Outcome
